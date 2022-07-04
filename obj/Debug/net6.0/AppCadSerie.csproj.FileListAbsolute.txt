@@ -1,0 +1,15 @@
+C:\ProjetosC#\AppCadSerie\bin\Debug\net6.0\AppCadSerie.exe
+C:\ProjetosC#\AppCadSerie\bin\Debug\net6.0\AppCadSerie.deps.json
+C:\ProjetosC#\AppCadSerie\bin\Debug\net6.0\AppCadSerie.runtimeconfig.json
+C:\ProjetosC#\AppCadSerie\bin\Debug\net6.0\AppCadSerie.dll
+C:\ProjetosC#\AppCadSerie\bin\Debug\net6.0\AppCadSerie.pdb
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\AppCadSerie.csproj.AssemblyReference.cache
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\AppCadSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\AppCadSerie.AssemblyInfoInputs.cache
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\AppCadSerie.AssemblyInfo.cs
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\AppCadSerie.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\AppCadSerie.dll
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\refint\AppCadSerie.dll
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\AppCadSerie.pdb
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\AppCadSerie.genruntimeconfig.cache
+C:\ProjetosC#\AppCadSerie\obj\Debug\net6.0\ref\AppCadSerie.dll
